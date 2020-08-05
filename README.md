@@ -10,5 +10,6 @@
 - [x] _Implementar el evento click(eventos en general)_
 - [x] _Reconociendo el useState y Hook_
 - [x] _Creación de funciones para los botones[ suma, resta, resetear]_
+- [x] _Implementando las primeras pruebas con Jest_
 
 **_Curso del Gran Profe Fernando Herrera_**
