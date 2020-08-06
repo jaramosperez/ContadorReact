@@ -12,5 +12,6 @@
 - [x] _Creación de funciones para los botones[ suma, resta, resetear]_
 - [x] _Implementando las primeras pruebas con Jest_
 - [x] _Ejecutando pruebas **expect** y **.toBe**_
+- [x] _Ejecutando pruebas **toEqual**_
 
 **_Curso del Gran Profe Fernando Herrera_**
