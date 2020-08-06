@@ -14,5 +14,6 @@
 - [x] _Ejecutando pruebas **expect** y **.toBe**_
 - [x] _Ejecutando pruebas **toEqual**_
 - [x] _Ejecutando pruebas **con Destructuración**_
+- [x] _Ejecutando pruebas en Arrys_
 
 **_Curso del Gran Profe Fernando Herrera_**
