@@ -13,5 +13,6 @@
 - [x] _Implementando las primeras pruebas con Jest_
 - [x] _Ejecutando pruebas **expect** y **.toBe**_
 - [x] _Ejecutando pruebas **toEqual**_
+- [x] _Ejecutando pruebas **con Destructuración**_
 
 **_Curso del Gran Profe Fernando Herrera_**
