@@ -14,6 +14,26 @@ describe('Pruebas en <PrimeraApp />', () =>{
         expect( wrapper ).toMatchSnapshot();
         
     })
+
+    test('Debe de mostrar el subtitulo enviado por props', () => {
+        
+        const saludo = 'Hola soy Bruce Wayne';
+
+        const subTitulo = 'Soy un subTitulo';
+        const wrapper = shallow(
+            <PrimeraApp
+                 saludo = { saludo }
+                 subtitulo = { subTitulo } 
+                 />
+        );
+
+        const textoParrafo = wrapper.find('p').text();
+        console.log(textoParrafo);
+
+        expect( textoParrafo ).toBe( subTitulo );
+
+    })
+    
     
     
 
