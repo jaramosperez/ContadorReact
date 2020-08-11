@@ -15,6 +15,11 @@
 - [x] _Ejecutando pruebas **toEqual**_
 - [x] _Ejecutando pruebas **con Destructuración**_
 - [x] _Ejecutando pruebas en Arrys_
-- [x] _Ejecutando pruebas en Promesas_
+- [x] _Ejecutando pruebas en Async-Await_
+- [x] _Ejecutando pruebas en sobre componentes de react_
+- [x] _Ejecutando pruebas con Enzyme Test unit_
+- [x] _Ejecutando pruebas en Revisión dentro de componentes_
+- [x] _Ejecutando pruebas básicas del CounterApp_
+- [x] _Ejecutando pruebas simular evento clicks_
 
 **_Curso del Gran Profe Fernando Herrera_**
